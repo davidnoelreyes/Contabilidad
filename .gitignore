@@ -1,0 +1,15 @@
+# Artefactos generados al ejecutar la aplicacion
+contabilidad.db
+contabilidad.db-wal
+contabilidad.db-shm
+contabilidad.db.bak_*
+contabilidad_log.txt
+contabilidad_errores.log
+*.log
+*.db
+*.db-wal
+*.db-shm
+flet_desktop/app/.last-used
+
+# Respaldo local del sistema
+respaldo_pre_eliminacion_*/
